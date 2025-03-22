@@ -11,3 +11,7 @@ Unit 2 - Programming Assignment 1-6
 <img width="673" alt="Screenshot Implicit Conversion" src="https://github.com/user-attachments/assets/8c64ca9a-ee55-4db9-814b-510dd1d9f86a" />
 <img width="669" alt="Screenshot String Manipulation" src="https://github.com/user-attachments/assets/e22618e6-8fd8-4ad4-8dbb-e63968d33d14" />
 <img width="659" alt="Screenshot Memory Leak" src="https://github.com/user-attachments/assets/14b56565-0f49-4b4f-b439-9a0e6955f99a" />
+
+Unit 3 - Fortune Teller Game
+
+<img width="640" alt="Screenshot FortuneTellerGameWorking" src="https://github.com/user-attachments/assets/bedfb8de-8e1f-4bae-b8c5-bca968e0c76f" />
