@@ -15,3 +15,7 @@ Unit 2 - Programming Assignment 1-6
 Unit 3 - Fortune Teller Game
 
 <img width="640" alt="Screenshot FortuneTellerGameWorking" src="https://github.com/user-attachments/assets/bedfb8de-8e1f-4bae-b8c5-bca968e0c76f" />
+
+Unit 4 - Wizard Battle
+
+<img width="886" alt="Screenshot Wizard Battle" src="https://github.com/user-attachments/assets/3277aafa-bd38-4112-a2d1-be9798dbaf39" />
