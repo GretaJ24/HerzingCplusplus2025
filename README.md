@@ -26,3 +26,7 @@ Unit 4 - Wizard Battle
 Unit 5
 
 <img width="797" alt="Screenshot HotelManagment2" src="https://github.com/user-attachments/assets/50a100f5-de88-4377-b779-94f97f8d545c" />
+
+Unit 6
+
+<img width="801" alt="Screenshot 2025-04-08 182421" src="https://github.com/user-attachments/assets/17132b25-a365-492a-9b55-80013dbf762a" />
